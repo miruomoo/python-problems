@@ -1,4 +1,4 @@
-# NeetCode Solutions — @miruomoo
+# Python Practice Solutions
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `python-problems`
 
